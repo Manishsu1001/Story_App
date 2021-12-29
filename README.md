@@ -1,16 +1,8 @@
 # story
 
-A new Flutter project.
+This is a flutter project made for Android and iOS.
 
-## Getting Started
+## DESCRIPTION
+This is a story app in which the story will progress depending on your selection. More you can simply install the app in your System by installing flutter and Android studios.
+I would be soon uploading the apk file for the same too.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
